@@ -1,0 +1,17 @@
+JOB TITLE: Staff Full Stack Python Developer
+LOCATION: Seattle, WA / Remote
+EXPERIENCE REQUIRED: 6+ years
+
+JOB DESCRIPTION:
+Looking for a Staff Full Stack Developer to lead development of our web platform. You will build high-throughput REST/GraphQL APIs with Python (FastAPI/Django) and modern frontend interfaces using React, TypeScript, and Next.js.
+
+MUST-HAVE REQUIREMENTS:
+- 6+ years of software engineering experience.
+- Expert knowledge of Python, Django, or FastAPI.
+- Strong frontend skills in React, TypeScript, and modern state management.
+- Solid experience with relational databases (PostgreSQL, SQL) and Redis caching.
+- Experience with containerized deployment using Docker and AWS.
+
+NICE-TO-HAVE SKILLS:
+- Experience with GraphQL APIs.
+- Background in system architecture and microservices design.

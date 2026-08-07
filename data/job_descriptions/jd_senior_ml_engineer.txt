@@ -1,0 +1,18 @@
+JOB TITLE: Senior Machine Learning Engineer (RAG & LLM)
+LOCATION: San Francisco, CA / Remote
+EXPERIENCE REQUIRED: 5+ years
+
+JOB DESCRIPTION:
+We are seeking an experienced Senior Machine Learning Engineer to build state-of-the-art Retrieval-Augmented Generation (RAG) applications and fine-tune large language models. The ideal candidate has deep technical expertise in PyTorch, vector databases (ChromaDB/Pinecone), LangChain/LlamaIndex, and deploying scalable MLOps pipelines on AWS or GCP.
+
+MUST-HAVE REQUIREMENTS:
+- Minimum 5 years of professional software engineering & ML experience.
+- Strong proficiency in Python and PyTorch or TensorFlow.
+- Direct experience building RAG systems, vector search indices, and LLM applications.
+- Experience with ChromaDB, Pinecone, FAISS, or similar vector stores.
+- Familiarity with MLOps tools (Docker, Kubernetes, MLflow, SageMaker).
+
+NICE-TO-HAVE SKILLS:
+- Ph.D. or Master's degree in Computer Science or AI.
+- Experience with model optimization (LoRA, QLoRA, vLLM, TensorRT).
+- Publications in NLP or ML conferences (ACL, EMNLP, NeurIPS).

@@ -1,0 +1,16 @@
+JOB TITLE: Senior Frontend Engineer (React & TypeScript)
+LOCATION: Remote
+EXPERIENCE REQUIRED: 5+ years
+
+JOB DESCRIPTION:
+Seeking a Senior Frontend Engineer to craft fast, accessible, and responsive user interfaces for our enterprise web application.
+
+MUST-HAVE REQUIREMENTS:
+- 5+ years of dedicated frontend development experience.
+- Deep mastery of JavaScript (ES6+), TypeScript, and React.
+- Experience with Next.js, Redux, and Tailwind CSS.
+- Solid understanding of Web Vitals, browser performance optimization, and Jest testing.
+
+NICE-TO-HAVE SKILLS:
+- Experience building design systems.
+- Cypress or Playwright E2E testing experience.

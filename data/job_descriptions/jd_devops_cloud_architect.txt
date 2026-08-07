@@ -1,0 +1,17 @@
+JOB TITLE: Senior DevOps & Cloud Architect
+LOCATION: Austin, TX / Remote
+EXPERIENCE REQUIRED: 6+ years
+
+JOB DESCRIPTION:
+Join our cloud operations team to build scalable, automated Infrastructure-as-Code. You will manage multi-region Kubernetes clusters on AWS, automate CI/CD pipelines, and monitor telemetry with Prometheus/Grafana.
+
+MUST-HAVE REQUIREMENTS:
+- 6+ years of DevOps / Infrastructure experience.
+- Mastery of Terraform, Ansible, and Infrastructure as Code (IaC).
+- Heavy hands-on experience with Kubernetes (EKS/GKE) and Docker.
+- Advanced scripting in Python or Bash.
+- Deep AWS expertise (VPC, IAM, EKS, EC2).
+
+NICE-TO-HAVE SKILLS:
+- GitOps experience with ArgoCD or Flux.
+- Certified AWS Solutions Architect or CKA certification.

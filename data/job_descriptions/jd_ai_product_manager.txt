@@ -1,0 +1,16 @@
+JOB TITLE: Technical Product Manager (AI & Data)
+LOCATION: New York, NY
+EXPERIENCE REQUIRED: 4+ years
+
+JOB DESCRIPTION:
+We are hiring a Technical Product Manager to drive product strategy for our generative AI features. You will bridge business stakeholders and ML engineering teams, define technical product roadmaps, and track product analytics.
+
+MUST-HAVE REQUIREMENTS:
+- 4+ years of technical product management experience.
+- Strong technical fluency in AI/ML concepts, RAG, and LLM capabilities.
+- Proficiency in SQL and user analytics.
+- Demonstrated ability to manage Agile software development teams (Jira, Scrum).
+
+NICE-TO-HAVE SKILLS:
+- Computer Science or Engineering background.
+- Experience evaluating LLM output quality and user experience metrics.

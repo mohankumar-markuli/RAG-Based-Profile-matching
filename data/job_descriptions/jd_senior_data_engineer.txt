@@ -1,0 +1,16 @@
+JOB TITLE: Senior Data Engineer
+LOCATION: Chicago, IL / Hybrid
+EXPERIENCE REQUIRED: 5+ years
+
+JOB DESCRIPTION:
+We are building a next-generation real-time financial data platform and need a Senior Data Engineer. You will design ETL batch and streaming pipelines using PySpark, Kafka, Snowflake, and Airflow.
+
+MUST-HAVE REQUIREMENTS:
+- 5+ years in data engineering and big data processing.
+- Expert SQL skills and deep experience with Python or Java.
+- Proven track record with Apache Spark, Kafka, and Airflow.
+- Hands-on experience with cloud data warehouses like Snowflake, Databricks, or Redshift.
+
+NICE-TO-HAVE SKILLS:
+- Experience with dbt (data build tool).
+- Knowledge of financial data models or stream processing optimization.
