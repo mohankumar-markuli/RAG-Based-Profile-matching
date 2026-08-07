@@ -1,17 +1,35 @@
 from file_loader import ResumeLoader
 from chunker import DocumentChunker
-from vector_store import VectorStoreManager
+from metadata_extractor import MetadataExtractor
+
+# ==========================================
+# Load Resume Documents
+# ==========================================
 
 loader = ResumeLoader()
 
 documents = loader.load_documents()
 
+print(f"Loaded {len(documents)} pages.")
+
+# ==========================================
+# Chunk Documents
+# ==========================================
+
 chunker = DocumentChunker()
 
 chunks = chunker.split_documents(documents)
 
-vector_db = VectorStoreManager()
+print(f"Created {len(chunks)} chunks.")
 
-vector_db.create_vector_store(chunks)
+# ==========================================
+# Metadata Extraction
+# ==========================================
 
-print(f"Indexed Chunks : {vector_db.document_count()}")
+extractor = MetadataExtractor()
+
+metadata = extractor.extract_metadata(
+    chunks[0].page_content
+)
+
+print(metadata)
